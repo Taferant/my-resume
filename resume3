@@ -6,7 +6,7 @@
   <body>
     <h1>Taferant Mlimi</h1>
     <p>An introductory personal statement. </p>
-    <picture>file:///C:/Users/tmlim/OneDrive/Desktop/IMG-20221123-WA0017.jpg</picture>
+    <img src="file:///C:/Users/tmlim/OneDrive/Desktop/resume1/IMG-20221123-WA0017.jpg"height=500 width=350 alt="">
     
     <br>
       
@@ -29,14 +29,16 @@
       <h2 id="skills">Skills</h2>
       <p>
         <ul>
-          <li>Skill 1</li>
-          <li>Skill 2 </li>
-          <li>Skill 3</li>
-          <li>Skill 4 </li>
+          <li>computer skills</li>
+          <li>communnication skills </li>
+          <li>listening skills</li>
+          <li>working with others well </li>
         </ul>
     </p>
+    <h4 id="CONTACT">contact</h4>
+    
+    <a href="https://www.facebook.com/">facebook</a>
     
 
   </body>
 </html>
-n  
