@@ -15,3 +15,8 @@ h2{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: black;
 }
+h3{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: aquamarine;
+    color: azure;
+}
