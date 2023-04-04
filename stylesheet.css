@@ -47,3 +47,7 @@ nav ul li a{
     text-transform: uppercase;
     font-weight: bold;
 }
+img{
+position: relative;
+bottom: 20px;
+}
