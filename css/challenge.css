@@ -5,7 +5,8 @@
 #back-to-top {
     float: right;
     position: sticky;
-    
+    bottom: 80px;
+    right: 80px;
 
 
 }
