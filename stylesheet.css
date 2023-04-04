@@ -30,6 +30,8 @@ h3{
 }
 nav ul{
     display: flex;
-
+    margin:0 ;
+    padding: 0;
+    float: right;
 
 }
