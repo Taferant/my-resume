@@ -4,6 +4,7 @@
 */
 #back-to-top {
     float: right;
+    float: bottom;
     position: sticky;
     bottom: 80px;
     right: 80px;
