@@ -12,6 +12,7 @@ h1{
 menu{
     background-color: black;
     color: azure;
+    display: flex;
 
 }
 
