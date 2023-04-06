@@ -13,5 +13,6 @@ div {
   background-color: red;
   animation-name: animatedSquare;
   animation-duration: 4s;
-  animation-iteration-count: infinite;    
+  animation-iteration-count: infinite;
+  position: relative;    
 } 
