@@ -1,5 +1,14 @@
 
-
+h1{
+    color: white;
+    background-color: beige;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    margin-bottom: 20px;
+    border: 5px solid;
+    padding: 10px;
+}
+}
   
 hero-image{
     background-image: -moz-linear-gradient(
