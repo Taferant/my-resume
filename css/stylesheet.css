@@ -12,7 +12,7 @@ hero-image{
     background-image: -moz-linear-gradient(
         rgba(0,0,0,5),
         rgba(0,0,0,0.5),
-        url("\IMG-20221004-WA0098.jpg")
+        url("IMG-20221004-WA0098.jpg")
     );
     background-position: center;
     background-size: cover;
