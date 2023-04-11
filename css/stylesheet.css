@@ -14,7 +14,7 @@ hero-image{
     background-image:lin(
         rgba(0,0,0,5),
         rgba(0,0,0,0.5),
-        url("\IMG-20221004-WA0098.jpg")
+        url
     );
     background-position: center;
     background-size: cover;
