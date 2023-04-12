@@ -40,7 +40,7 @@ h3{
 
 
 /*....................mobile.............*/ 
-@media screen and(max-width: 300px) {
+@media screen and(max-width:48px) {
     h1{
         font-size: 1.9em;
     }
@@ -52,6 +52,9 @@ h3{
     }
     h3{
         font-size: 1.6em;
+    }
+    menu{
+        background-color: rgb(66, 94, 94);
     }
     
     
