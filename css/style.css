@@ -36,6 +36,7 @@ body {
     color: white;
     text-align: center;
     z-index: 1;
+    
    
 }
 
@@ -113,4 +114,9 @@ main {
     color: whitesmoke;
     text-align: center;
     padding: 2rem;
+}
+hero-image{
+    url
+        
+    );
 }
