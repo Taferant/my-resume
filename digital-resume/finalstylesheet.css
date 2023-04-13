@@ -6,11 +6,7 @@ head{
     font-family: Arial, Helvetica, sans-serif;
 }
 hero-image{
-    background-image: linear-gradient(
-        rgba(0,0,0,5),
-        rgba(0,0,0,0.5));
-        
-        
-        
-    );
+    background-color: rgb(241, 225, 204);
+    display: flex;
+    align-items: center;
 }
